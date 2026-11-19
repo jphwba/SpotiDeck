@@ -45,4 +45,4 @@ A Deck that sits on your desktop and shows your currently playing spotify song u
 |Core Electronics Shipping (Core Electronics Australia - Grant)||1|A$6.80||
 |Maker Store Shipping (Maker Store - Grant)||1|A$12.00||
 |3D Print (Printing Legion - Grant; From printing legion in slack)||1|USD$11||
-|Total||||A$57.60|
+|Total||||A$68.60|
