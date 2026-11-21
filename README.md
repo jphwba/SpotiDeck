@@ -44,5 +44,5 @@ A Deck that sits on your desktop and shows your currently playing spotify song u
 |Heatset Inserts (Core Electronics Australia - Grant)|A$12.05|1|A$12.05|[link](https://core-electronics.com.au/brass-heat-set-inserts-for-plastic-m3-x-4mm-50-pack.html)|
 |Core Electronics Shipping (Core Electronics Australia - Grant)||1|A$6.80||
 |Maker Store Shipping (Maker Store - Grant)||1|A$12.00||
-|3D Print (Printing Legion - Grant; From printing legion in slack)||1|USD$11||
-|Total||||A$68.60|
+|3D Print (Printing Legion - Grant; From printing legion in slack)||1|A$17||
+|Total||||A$74.60|
